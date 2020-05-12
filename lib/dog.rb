@@ -11,6 +11,8 @@ def initialize
 end 
 end 
 
+d1 = Dog
+
 #   def breed
 #     @breed
 #   end 
