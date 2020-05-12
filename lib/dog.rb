@@ -7,6 +7,7 @@ class Dog
   class Dog 
 attr_accessor :breed 
 def initialize 
+  @breed 
 
 #   def breed
 #     @breed
