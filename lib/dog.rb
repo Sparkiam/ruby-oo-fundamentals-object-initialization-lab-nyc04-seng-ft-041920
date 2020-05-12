@@ -4,6 +4,8 @@ class Dog
     @breed = breed 
   end
   
+attr_accessor   
+
 #   def breed
 #     @breed
 #   end 
