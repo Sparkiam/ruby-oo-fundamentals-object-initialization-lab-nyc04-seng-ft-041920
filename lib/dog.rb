@@ -5,7 +5,8 @@ class Dog
   end
   
   class Dog 
-attr_accessor name   
+attr_accessor :breed 
+
 
 #   def breed
 #     @breed
