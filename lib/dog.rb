@@ -12,6 +12,8 @@ end
 end 
 
 d1 = Dog.new 
+d1.breed 
+
 
 #   def breed
 #     @breed
